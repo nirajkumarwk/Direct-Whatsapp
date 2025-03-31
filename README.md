@@ -19,11 +19,6 @@ A simple web tool to send WhatsApp messages without saving contacts.
 
 Simply host the HTML file on any web server or static hosting service.
 
-## Customization
-
-- Modify CSS variables in the `:root` selector to change colors
-- Tailwind version of the button is included as reference
-
 ## License & Disclaimer
 
 MIT License
